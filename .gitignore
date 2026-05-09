@@ -20,4 +20,5 @@ rad.json
 *.bclicense
 *.flf
 #Test results file
-TestResults.xml
+TestResults.xml                                             \
+dst-3.0_16_1_hh_database.csv
