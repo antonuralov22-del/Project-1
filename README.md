@@ -2,7 +2,7 @@
 https://drive.google.com/file/d/1jGlctQWxmUcSS5FMWSDlYBdhrQpw3Qwq/view?usp=sharing
 https://drive.google.com/file/d/1GRyEQnK0IwZ1HBvRzx0vGdqYzgPPluY0/view?usp=sharing
 
-Файлы csv ("dst-3.0_16_1_hh_database.csv" и "ExchangeRates.csv") должны быть скачаны и находится в той же директории, что и рабочий блокнот ("Project-1._Ноутбук-шаблон.ipynb").
+Файлы csv ("dst-3.0_16_1_hh_database.csv" и "ExchangeRates.csv") должны быть скачаны и находиться в той же директории, что и рабочий блокнот ("Project-1._Ноутбук-шаблон.ipynb").
 После клонирования репозитория необходимо установить зависимости (пакеты) из файла requirements.txt. Для этого можно воспользоваться командой  pip install -r requirements.txt"
 
 
