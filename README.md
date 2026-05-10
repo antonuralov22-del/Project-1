@@ -1,4 +1,6 @@
 Проект посвящён анализу резюме на сайте HeadHunter. Используем для этого предобработанные CSV‑файлы:
+https://drive.google.com/file/d/1jGlctQWxmUcSS5FMWSDlYBdhrQpw3Qwq/view?usp=sharing
+
 
 В ходе проекта мы решаем следующие задачи.
 
